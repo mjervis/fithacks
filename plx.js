@@ -105,12 +105,3 @@ function trackPoint(time, bpm, distance)
           '</Trackpoint>\n';
    return point;
 }
-
-/*
-https://api.ifit.com/log/workout/526eb376218394c70500001b?callback=jQuery1720031018271576613188_1383059739114&detailed=true&_=1383059742891
-https://api.ifit.com/workout/logs/526eab3790288d22050001a2?callback=jQuery1720031018271576613188_1383059739117&_=1383059950414
-https://api.ifit.com/log/workout/526eab3790288d22050001a2?callback=jQuery1720031018271576613188_1383059739118&detailed=true&_=1383060096999
-
-jQuery1720031018271576613188_1383059739114();
-
-*/
